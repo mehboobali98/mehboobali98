@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=mehboobali98)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=cobalt)](https://github.com/mehboobali98/github-readme-stats)
+
+[![Mehboob Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=cobalt)](https://github.com/mehboobali98/github-readme-stats)
+
 <!--
 **mehboobali98/mehboobali98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
