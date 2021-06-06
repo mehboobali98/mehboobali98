@@ -10,6 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=cobalt&hide=stars,prs" />
 </a>
 
+[![Mehboob Ali's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mehboobali98&theme=cobalt)](https://github.com/mehboobali98/github-readme-streak-stats)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=cobalt)](https://github.com/mehboobali98/github-readme-stats)
 
