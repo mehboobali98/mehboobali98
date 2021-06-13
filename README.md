@@ -5,11 +5,12 @@
 <a href="https://github.com/mehboobali98/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=dark" />
 </a>
-
+<hr>
 <a href="https://github.com/mehboobali98/github-readme-streak-stats">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehboobali98&theme=dark">
  </a>
 
+<hr>
 <a href="https://github.com/mehboobali98/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=dark&hide=stars,prs" />
 </a>
