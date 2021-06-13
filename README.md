@@ -2,22 +2,19 @@
 
 ![](https://komarev.com/ghpvc/?username=mehboobali98)
 
-<a href="https://github.com/mehboobali98/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=dark" />
-</a>
-<hr>
-<a href="https://github.com/mehboobali98/github-readme-streak-stats">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehboobali98&theme=dark">
- </a>
+## 📝 Contact
 
-<hr>
-<a href="https://github.com/mehboobali98/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=dark&hide=stars,prs" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehboobali98/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mehboobali98"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:l174316@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="imehboobali@outlook.com"><img title="Email" src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+ 
+</p>
 
 <hr>
 
-## 👩‍💻⚙ Tools & Technologies
+## 👩‍💻🚀 Skills
 
 <p align="left">
  <a href="#">
@@ -33,6 +30,7 @@
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -40,8 +38,32 @@
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
- </a>
+<img alt=".NET" src =" https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="SQL Server" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+</a>
 </p>
+
+<hr>
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/mehboobali98/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=dark" />
+</a>
+<hr>
+<a href="https://github.com/mehboobali98/github-readme-streak-stats">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehboobali98&theme=dark">
+ </a>
+
+<hr>
+<a href="https://github.com/mehboobali98/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=dark&hide=stars,prs" />
+</a>
+
+<hr>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=cobalt)](https://github.com/mehboobali98/github-readme-stats)
