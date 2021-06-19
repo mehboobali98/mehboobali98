@@ -59,7 +59,7 @@
 
 <hr>
 <a href="https://github.com/mehboobali98/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=dark&hide=stars,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=dark&hide=stars" />
 </a>
 
 <hr>
