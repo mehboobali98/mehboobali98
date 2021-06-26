@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mehboobali98)
 
-## 📝 Contact
+## 📝📧 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehboobali98/" target="_blank"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -47,7 +47,7 @@
 
 <hr>
 
-## 📈 GitHub Stats
+## 📈📉 GitHub Stats
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehboobali98&langs_count=8&layout=compact&show_icons=true&theme=dark" />
