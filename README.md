@@ -56,12 +56,10 @@
 <a href="#">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehboobali98&theme=dark">
  </a>
-
 <hr>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobali98&show_icons=true&layout=compact&theme=dark&hide=stars" />
 </a>
-
 <hr>
 
 <!--
