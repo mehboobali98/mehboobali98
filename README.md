@@ -1,77 +1,67 @@
-<div align="center">
+<img src=".github/assets/graph.svg" alt="Four things built over five years, connected as one traversal through a quiet mesh: a sync pipeline, a CMDB, the rmine CLI and a workflow engine." width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=180&section=header&text=Mehboob%20Ali&fontSize=54&fontColor=ffffff&animation=fadeIn" alt="header"/>
+## Mehboob Ali
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Principal+Software+Engineer;Building+a+unified+IT+graph;Author+of+bitwise_attributes+%F0%9F%92%8E" alt="Typing SVG"/>
+**Principal Software Engineer** &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; [mehboob.dev](https://mehboob.dev)
 
-</div>
+Five years at [7Vals](https://7vals.com) on Rails backends and IT-asset systems. I led the CMDB build
+and I run the Workflow Automation program now. The tooling side got interesting along the way: a
+Redmine CLI, Claude Code skills, an agent that turns tickets into pull requests.
 
-- 🔭 Working on a **unified IT graph** at $work
-- 💎 Recently released [**bitwise_attributes**](https://github.com/mehboobali98/bitwise_attributes) — packs multiple boolean flags into a single integer column for ActiveRecord, with generated getters/setters and query scopes
-- 🚧 A few other things in progress — more soon
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehboobali98/mehboobali98/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehboobali98/mehboobali98/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehboobali98/mehboobali98/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-## Currently using
-
-<p align="left">
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<p>
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-1f2328?style=flat-square&logo=ruby&logoColor=white"/>
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-1f2328?style=flat-square&logo=rubyonrails&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-1f2328?style=flat-square&logo=go&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="Sidekiq" src="https://img.shields.io/badge/Sidekiq-1f2328?style=flat-square&logo=sidekiq&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-1f2328?style=flat-square&logo=claude&logoColor=white"/>
 </p>
 
-## Also worked with
+### What I've shipped
 
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-</p>
+**[The sync job that took half a day](https://mehboob.dev/blog/the-sync-job-that-took-half-a-day/)** &nbsp;·&nbsp; `Rails` `Sidekiq` `PostgreSQL`
+> A device sync was taking 12 to 15 hours to run, so new hardware wouldn't show up for most of a
+> working day. N+1 queries and no batching, on a table that had been collecting devices for years.
+> Rebuilt around batched writes: under an hour now, and every MDM integration added since is built
+> on the same pattern.
 
-## Activity
+**Automation that could branch** &nbsp;·&nbsp; `Rails` `React Flow` `ITSM`
+> Automation used to be one trigger paired with one sub-trigger. Fine for a one-step rule, out of
+> room past that. It's a node canvas now: actions chain, each branches on success or failure, and
+> every run writes a step-by-step log, so a rule that misfires can be read instead of guessed at.
+> Led technical delivery: five months, eight engineers. It's the program I still run.
+> [Documented by EZO ↗](https://ezo.io/assetsonar/blog/automation-engine/)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehboobali98&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
-</div>
+**A CMDB that actually models relationships** &nbsp;·&nbsp; `Rails` `PostgreSQL` `Graph modeling`
+> Most CMDBs are static. An asset points at a user, maybe a location, and anything past that takes
+> a support ticket. This one answers *everything touching this server, three hops out*: a data model
+> with n-level traversal plus the ITSM-integrated UI on top. Seven months architecture to production,
+> leading a five-person team.
+> [Documented by EZO ↗](https://ezo.io/assetsonar/blog/visualize-cmdb-relationships-assetsonar-it-graph/)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehboobali98&theme=dark&hide_border=true" alt="GitHub streak stats"/>
-</div>
+Four titles in five years, and what stayed behind after each one: [mehboob.dev/#trajectory](https://mehboob.dev/#trajectory).
+The delivery numbers behind them are on [mehboob.dev/#numbers](https://mehboob.dev/#numbers): 276 feature
+tickets, 72% of which shipped to production, 22 product-flagged Key Features, three promotions.
 
-## Contact
+### Open source
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehboobali98/" target="_blank"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:imehboobali@outlook.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-</p>
+|  |  |  |
+| :-- | :-- | :-- |
+| **[rmine](https://github.com/mehboobali98/rmine)** | `Go` | Redmine CLI with a Claude Code skill built in, plus a companion spec-estimator skill ([rmine-skills](https://github.com/mehboobali98/rmine-skills)). Adopted by the team at 7Vals. |
+| **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** | `Ruby` | Packs boolean flag attributes into a single ActiveRecord integer column. An internal pattern I used for two years before publishing it. |
+| **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** | `JavaScript` | One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. |
 
-<img src="https://komarev.com/ghpvc/?username=mehboobali98&style=for-the-badge&color=blue" alt="Profile views"/>
+### Writing
+
+- [What changed when an agent started using my CLI](https://mehboob.dev/blog/designing-a-cli-for-agents/) — rmine was built for two callers from the start: me at a terminal, and a coding agent.
+- [Three agents that don't trust each other](https://mehboob.dev/blog/three-agents-that-dont-trust-each-other/) — an effort estimator built from three subagents. What mattered was what to withhold from each one.
+- [I used it internally for two years before publishing it](https://mehboob.dev/blog/two-years-before-i-published-it/) — most of what makes something a library rather than a snippet lives in that gap.
+
+More at [mehboob.dev/blog](https://mehboob.dev/blog/) &nbsp;·&nbsp; [RSS](https://mehboob.dev/rss.xml)
+
+### Elsewhere
+
+[mehboob.dev](https://mehboob.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mehboobali98/) &nbsp;·&nbsp; [mehboob@mehboob.dev](mailto:mehboob@mehboob.dev)
+
+<sub>Earlier work, before Rails: Python, Java, C#/.NET, C++, Android, Spring. Mostly in the 2021 repos below.</sub>
