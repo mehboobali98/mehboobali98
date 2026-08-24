@@ -13,14 +13,13 @@ Redmine CLI, Claude Code skills, an agent that turns tickets into pull requests.
   <img alt="Rails" src="https://img.shields.io/badge/Rails-1f2328?style=flat-square&logo=rubyonrails&logoColor=white"/>
   <img alt="Go" src="https://img.shields.io/badge/Go-1f2328?style=flat-square&logo=go&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Sidekiq" src="https://img.shields.io/badge/Sidekiq-1f2328?style=flat-square&logo=sidekiq&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white"/>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-1f2328?style=flat-square&logo=claude&logoColor=white"/>
 </p>
 
 ### What I've shipped
 
-**[The sync job that took half a day](https://mehboob.dev/blog/the-sync-job-that-took-half-a-day/)** &nbsp;·&nbsp; `Rails` `Sidekiq` `PostgreSQL`
+**[The sync job that took half a day](https://mehboob.dev/blog/the-sync-job-that-took-half-a-day/)** &nbsp;·&nbsp; `Rails` `Delayed Job` `PostgreSQL`
 > A device sync was taking 12 to 15 hours to run, so new hardware wouldn't show up for most of a
 > working day. N+1 queries and no batching, on a table that had been collecting devices for years.
 > Rebuilt around batched writes: under an hour now, and every MDM integration added since is built
