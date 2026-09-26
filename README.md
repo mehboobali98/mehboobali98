@@ -6,7 +6,8 @@
 
 Five years at [7Vals](https://7vals.com) on Rails backends and IT-asset systems. I led the CMDB build
 and I run the Workflow Automation program now. The tooling side got interesting along the way: a
-Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase.
+Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase. The
+people side too: I review code across a team of 40+ engineers and interview candidates most months.
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-1f2328?style=flat-square&logo=ruby&logoColor=white"/>
@@ -41,15 +42,22 @@ Closed source, so here is what they were and what they had to solve.
 > Automation used to be one trigger paired with one sub-trigger. Fine for a one-step rule, out of
 > room past that. It's a node canvas now: actions chain, each branches on success or failure, and
 > every run writes a step-by-step log, so a rule that misfires can be read instead of guessed at.
-> Led technical delivery with a team of about eight engineers. It's the program I still run.
+> Led technical delivery with a team of about eight engineers, and built the HTTP request node,
+> webhook triggers and branching myself. It's the program I still run.
 > [Documented by EZO ↗](https://ezo.io/assetsonar/blog/automation-engine/)
 
 **A CMDB that actually models relationships** &nbsp;·&nbsp; `Rails` `MySQL` `Graph modeling`
 > Most CMDBs are static. An asset points at a user, maybe a location, and anything past that takes
 > a support ticket. This one answers *everything touching this server, three hops out*: a data model
 > with n-level traversal plus the ITSM-integrated UI on top. Seven months architecture to production,
-> leading a five-person team.
+> leading a five-person team. I wrote the design RFCs and built the new module's backend.
 > [Documented by EZO ↗](https://ezo.io/assetsonar/blog/visualize-cmdb-relationships-assetsonar-it-graph/)
+
+**Telling devices apart when the serial is wrong** &nbsp;·&nbsp; `Rails` `MySQL`
+> Asset records were keyed on the BIOS serial, and some devices report a junk one, so a single
+> laptop could turn into several assets or two machines could merge into one. I built the Device
+> Uniqueness Engine: it spots invalid serials, falls back to the MAC address, and lets each company
+> keep its own list of serials not to trust.
 
 Four titles in five years, and what stayed behind after each one: [mehboob.dev/#trajectory](https://mehboob.dev/#trajectory).
 The delivery numbers behind them are on [mehboob.dev/#numbers](https://mehboob.dev/#numbers): 170 features
