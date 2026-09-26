@@ -13,7 +13,7 @@ opened pull request.
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-1f2328?style=flat-square&logo=ruby&logoColor=white"/>
   <img alt="Rails" src="https://img.shields.io/badge/Rails-1f2328?style=flat-square&logo=rubyonrails&logoColor=white"/>
   <img alt="Go" src="https://img.shields.io/badge/Go-1f2328?style=flat-square&logo=go&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white"/>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-1f2328?style=flat-square&logo=claude&logoColor=white"/>
 </p>
@@ -31,7 +31,7 @@ opened pull request.
 
 Closed source, so here is what they were and what they had to solve.
 
-**[The sync job that took half a day](https://mehboob.dev/blog/the-sync-job-that-took-half-a-day/)** &nbsp;·&nbsp; `Rails` `Delayed Job` `PostgreSQL`
+**[The sync job that took half a day](https://mehboob.dev/blog/the-sync-job-that-took-half-a-day/)** &nbsp;·&nbsp; `Rails` `Delayed Job` `MySQL`
 > A device sync was taking 12 to 15 hours to run, so new hardware wouldn't show up for most of a
 > working day. N+1 queries and no batching, on a table that had been collecting devices for years.
 > Rebuilt around batched writes: under an hour now, and every MDM integration added since is built
@@ -44,7 +44,7 @@ Closed source, so here is what they were and what they had to solve.
 > Led technical delivery: five months, eight engineers. It's the program I still run.
 > [Documented by EZO ↗](https://ezo.io/assetsonar/blog/automation-engine/)
 
-**A CMDB that actually models relationships** &nbsp;·&nbsp; `Rails` `PostgreSQL` `Graph modeling`
+**A CMDB that actually models relationships** &nbsp;·&nbsp; `Rails` `MySQL` `Graph modeling`
 > Most CMDBs are static. An asset points at a user, maybe a location, and anything past that takes
 > a support ticket. This one answers *everything touching this server, three hops out*: a data model
 > with n-level traversal plus the ITSM-integrated UI on top. Seven months architecture to production,
