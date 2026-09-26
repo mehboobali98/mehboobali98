@@ -53,7 +53,7 @@ Closed source, so here is what they were and what they had to solve.
 
 Four titles in five years, and what stayed behind after each one: [mehboob.dev/#trajectory](https://mehboob.dev/#trajectory).
 The delivery numbers behind them are on [mehboob.dev/#numbers](https://mehboob.dev/#numbers): 276 feature
-tickets, 72% of which shipped to production, 22 product-flagged Key Features, three promotions.
+tickets, 22 product-flagged Key Features, three promotions.
 
 ### Writing
 
