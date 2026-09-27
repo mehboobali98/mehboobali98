@@ -2,12 +2,12 @@
 
 ## Mehboob Ali
 
-**Senior Backend Engineer** (Ruby on Rails) &nbsp;·&nbsp; Principal Engineer at 7Vals &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; [mehboob.dev](https://mehboob.dev)
+**Senior Backend Engineer** (Ruby on Rails) &nbsp;·&nbsp; Principal Software Engineer at 7Vals &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; [mehboob.dev](https://mehboob.dev)
 
 Five years at [7Vals](https://7vals.com) on Rails backends and IT-asset systems. I led the CMDB build
 and I run the Workflow Automation program now. The tooling side got interesting along the way: a
-Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase. The
-people side too: I review code across a team of 40+ engineers and interview candidates most months.
+Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase. I've
+also reviewed pull requests from 40+ engineers since 2022, and I interview candidates most months.
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-1f2328?style=flat-square&logo=ruby&logoColor=white"/>
@@ -16,7 +16,6 @@ people side too: I review code across a team of 40+ engineers and interview cand
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-1f2328?style=flat-square&logo=claude&logoColor=white"/>
 </p>
 
 ### Open source
@@ -49,8 +48,8 @@ Closed source, so here is what they were and what they had to solve.
 **A CMDB that actually models relationships** &nbsp;·&nbsp; `Rails` `MySQL` `Graph modeling`
 > Most CMDBs are static. An asset points at a user, maybe a location, and anything past that takes
 > a support ticket. This one answers *everything touching this server, three hops out*: a data model
-> with n-level traversal plus the ITSM-integrated UI on top. Seven months architecture to production,
-> leading a five-person team. I wrote the design RFCs and built the new module's backend.
+> with n-level traversal plus the ITSM-integrated UI on top. About seven months from architecture
+> to production, leading a five-person team. I wrote the design RFCs and built the new module's backend.
 > [Documented by EZO ↗](https://ezo.io/assetsonar/blog/visualize-cmdb-relationships-assetsonar-it-graph/)
 
 **Telling devices apart when the serial is wrong** &nbsp;·&nbsp; `Rails` `MySQL`
@@ -60,8 +59,6 @@ Closed source, so here is what they were and what they had to solve.
 > keep its own list of serials not to trust.
 
 Four titles in five years, and what stayed behind after each one: [mehboob.dev/#trajectory](https://mehboob.dev/#trajectory).
-The delivery numbers behind them are on [mehboob.dev/#numbers](https://mehboob.dev/#numbers): 170 features
-deployed, 20 of them flagship releases, three promotions.
 
 ### Writing
 
