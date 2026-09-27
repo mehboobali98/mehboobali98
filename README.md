@@ -5,7 +5,7 @@
 **Senior Backend Engineer** (Ruby on Rails) &nbsp;·&nbsp; Principal Software Engineer at 7Vals &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; [mehboob.dev](https://mehboob.dev)
 
 Five years at [7Vals](https://7vals.com) on Rails backends and IT-asset systems. I led the CMDB build
-and I run the Workflow Automation program now. The tooling side got interesting along the way: a
+and I run our workflow automation program now. The tooling side got interesting along the way: a
 Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase. I've
 also reviewed pull requests from 40+ engineers since 2022, and I interview candidates most months.
 
@@ -23,7 +23,7 @@ also reviewed pull requests from 40+ engineers since 2022, and I interview candi
 |  |  |  |
 | :-- | :-- | :-- |
 | **[rmine](https://github.com/mehboobali98/rmine)** | `Go` | Redmine from a terminal, built for two callers from the start: me, and a coding agent. Structured output, profiles, time logging, an embedded Claude Code skill, tagged releases. |
-| **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** | `Python` | Three workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. `/calibrate` checks the whole rubric against hours actually logged. |
+| **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** | `Python` | Six workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. `/calibrate` checks the whole rubric against hours actually logged. |
 | **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** | `Ruby` | Packs boolean flag attributes into a single ActiveRecord integer column, with generated scopes, validations and inheritance behavior. An internal pattern I used for two years before publishing it. |
 | **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** | `JavaScript` | One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. A Manifest V3 worker over a DOM I don't control and can't rely on. |
 
@@ -54,9 +54,9 @@ Closed source, so here is what they were and what they had to solve.
 
 **Telling devices apart when the serial is wrong** &nbsp;·&nbsp; `Rails` `MySQL`
 > Asset records were keyed on the BIOS serial, and some devices report a junk one, so a single
-> laptop could turn into several assets or two machines could merge into one. I built the Device
-> Uniqueness Engine: it spots invalid serials, falls back to the MAC address, and lets each company
-> keep its own list of serials not to trust.
+> laptop could turn into several assets or two machines could merge into one. I built matching that
+> spots invalid serials, falls back to the MAC address, and lets each company keep its own list of
+> serials not to trust.
 
 Four titles in five years, and what stayed behind after each one: [mehboob.dev/#trajectory](https://mehboob.dev/#trajectory).
 
