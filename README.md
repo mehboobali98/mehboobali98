@@ -22,7 +22,7 @@ also reviewed pull requests from 40+ engineers since 2022, and I interview candi
 
 |  |  |  |
 | :-- | :-- | :-- |
-| **[rmine](https://github.com/mehboobali98/rmine)** | `Go` | Redmine from a terminal, built for two callers from the start: me, and a coding agent. Structured output, profiles, time logging, an embedded Claude Code skill, tagged releases. |
+| **[rmine](https://github.com/mehboobali98/rmine)** | `Go` | Redmine from a terminal, built for two callers from the start: me, and a coding agent. Structured output, profiles, time logging, an embedded Claude Code skill, tagged releases. My team at 7Vals uses it with rmine-skills. |
 | **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** | `Python` | Six workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. `/calibrate` checks the whole rubric against hours actually logged. |
 | **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** | `Ruby` | Packs boolean flag attributes into a single ActiveRecord integer column, with generated scopes, validations and inheritance behavior. An internal pattern I used for two years before publishing it. |
 | **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** | `JavaScript` | One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. A Manifest V3 worker over a DOM I don't control and can't rely on. |
