@@ -1,4 +1,7 @@
-<img src=".github/assets/graph.svg" alt="Four things built over five years, connected as one traversal through a quiet mesh: a sync pipeline, a CMDB, the rmine CLI and a workflow engine." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/header-dark.png">
+  <img src=".github/assets/header-light.png" alt="Backend Engineer. Ruby on Rails, 5+ years. AI-assisted engineering with Claude Code and Cursor. Lines fan out to MySQL, AWS, React and TypeScript." width="100%">
+</picture>
 
 ## Mehboob Ali
 
@@ -7,7 +10,7 @@
 Five years at [7Vals](https://7vals.com) on Rails backends and IT-asset systems. I led the CMDB build
 and I run our workflow automation program now. The tooling side got interesting along the way: a
 Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase. I've
-also reviewed pull requests from 40+ engineers since 2022, and I interview candidates most months.
+also reviewed pull requests from 40+ engineers and interviewed about 100 candidates since 2022.
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-1f2328?style=flat-square&logo=ruby&logoColor=white"/>
@@ -20,12 +23,14 @@ also reviewed pull requests from 40+ engineers since 2022, and I interview candi
 
 ### Open source
 
-|  |  |  |
-| :-- | :-- | :-- |
-| **[rmine](https://github.com/mehboobali98/rmine)** | `Go` | Redmine from a terminal, built for two callers from the start: me, and a coding agent. Structured output, profiles, time logging, an embedded Claude Code skill, tagged releases. My team at 7Vals uses it with rmine-skills. |
-| **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** | `Python` | Six workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. `/calibrate` checks the whole rubric against hours actually logged. |
-| **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** | `Ruby` | Packs boolean flag attributes into a single ActiveRecord integer column, with generated scopes, validations and inheritance behavior. An internal pattern I used for two years before publishing it. |
-| **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** | `JavaScript` | One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. A Manifest V3 worker over a DOM I don't control and can't rely on. |
+- **[rmine](https://github.com/mehboobali98/rmine)** &nbsp;`Go`<br>
+  Redmine from a terminal, built for two callers from the start: me, and a coding agent. Structured output, profiles, time logging, an embedded Claude Code skill, tagged releases. My team at 7Vals uses it with rmine-skills.
+- **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** &nbsp;`Python`<br>
+  Six workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. `/calibrate` checks the whole rubric against hours actually logged.
+- **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** &nbsp;`Ruby`<br>
+  Packs boolean flag attributes into a single ActiveRecord integer column, with generated scopes, validations and inheritance behavior. An internal pattern I used for two years before publishing it.
+- **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** &nbsp;`JavaScript`<br>
+  One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. A Manifest V3 worker over a DOM I don't control and can't rely on.
 
 ### What I've shipped at work
 
