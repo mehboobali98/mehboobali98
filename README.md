@@ -25,8 +25,8 @@ also reviewed pull requests from 40+ engineers and interviewed about 100 candida
 
 - **[rmine](https://github.com/mehboobali98/rmine)** &nbsp;`Go`<br>
   Redmine from a terminal, built for two callers from the start: me, and a coding agent. Structured output, profiles, time logging, an embedded Claude Code skill, tagged releases. My team at EZO uses it with rmine-skills.
-- **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** &nbsp;`Python`<br>
-  Six workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. It prices agent-driven work by default: the time to describe, review and check what an agent writes. `/calibrate` checks the whole rubric against hours actually logged.
+- **[rmine-skills](https://github.com/mehboobali98/rmine-skills)** &nbsp;`Python` `Node.js`<br>
+  Seven workflows on top of rmine. `/estimate` refuses to price a spec it can't read, grounds each line item in the real codebase, then hands the result to a validator that never sees how it was derived. It prices agent-driven work by default: the time to describe, review and check what an agent writes. `/calibrate` checks the whole rubric against hours actually logged. `/demo` films a finished feature in the developer's local app, one scene per acceptance criterion, and a failed check stops the take, so the video it posts to the ticket only ever shows a feature that works.
 - **[clip-studio](https://github.com/mehboobali98/clip-studio)** &nbsp;`JavaScript`<br>
   Short videos from code, as a Claude Code skill. Every frame is a pure function of time, captured with Playwright and encoded with ffmpeg; two templates, a launch-style product demo and a motion-graphics clip. I use it for my own LinkedIn and portfolio videos.
 - **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** &nbsp;`Ruby`<br>
