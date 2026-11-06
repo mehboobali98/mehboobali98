@@ -34,7 +34,7 @@ also reviewed pull requests from 40+ engineers and interviewed about 100 candida
 - **[stafflow](https://github.com/mehboobali98/stafflow)** &nbsp;`Rails` `Docker`<br>
   A multi-tenant HR system that started as a 2021 team project. I restored it and maintain it now, and took it from Rails 6.0 and Ruby 2.7 to Rails 7.2 and Ruby 3.3.
 - **[loredock](https://github.com/mehboobali98/loredock)** &nbsp;`Python`<br>
-  A local RAG kit on AnythingLLM and Ollama that answers with sources, built with Codex. Its evaluation asks 30 questions, some it must refuse, and only a human review can pass the quality gate.
+  A local RAG kit on AnythingLLM and Ollama that answers with sources. Its evaluation asks 30 questions, some it must refuse, and only a human review can pass the quality gate.
 - **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** &nbsp;`JavaScript`<br>
   One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. A Manifest V3 worker over a DOM I don't control and can't rely on.
 - **[session-deck](https://github.com/mehboobali98/session-deck)** &nbsp;`Claude Code`<br>
