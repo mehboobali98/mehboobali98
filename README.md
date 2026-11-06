@@ -5,9 +5,9 @@
 
 ## Mehboob Ali
 
-**Senior Backend Engineer** (Ruby on Rails) &nbsp;·&nbsp; Principal Software Engineer at 7Vals &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; [mehboob.dev](https://mehboob.dev)
+**Senior Backend Engineer** (Ruby on Rails) &nbsp;·&nbsp; Principal Software Engineer at EZO &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; [mehboob.dev](https://mehboob.dev)
 
-Five years at [7Vals](https://7vals.com) on Rails backends and IT-asset systems. I led the CMDB build
+Five years at [EZO](https://ezo.io/) on Rails backends and IT-asset systems. I led the CMDB build
 and I run our workflow automation program now. The tooling side got interesting along the way: a
 Redmine CLI, and Claude Code skills built on it that estimate work against the real codebase. I've
 also reviewed pull requests from 40+ engineers and interviewed about 100 candidates since 2022.
@@ -31,8 +31,14 @@ also reviewed pull requests from 40+ engineers and interviewed about 100 candida
   Short videos from code, as a Claude Code skill. Every frame is a pure function of time, captured with Playwright and encoded with ffmpeg; two templates, a launch-style product demo and a motion-graphics clip. I use it for my own LinkedIn and portfolio videos.
 - **[bitwise_attributes](https://github.com/mehboobali98/bitwise_attributes)** &nbsp;`Ruby`<br>
   Packs boolean flag attributes into a single ActiveRecord integer column, with generated scopes, validations and inheritance behavior. An internal pattern I used for two years before publishing it.
+- **[stafflow](https://github.com/mehboobali98/stafflow)** &nbsp;`Rails` `Docker`<br>
+  A multi-tenant HR system that started as a 2021 team project. I restored it and maintain it now, and took it from Rails 6.0 and Ruby 2.7 to Rails 7.2 and Ruby 3.3.
+- **[loredock](https://github.com/mehboobali98/loredock)** &nbsp;`Python`<br>
+  A local RAG kit on AnythingLLM and Ollama that answers with sources, built with Codex. Its evaluation asks 30 questions, some it must refuse, and only a human review can pass the quality gate.
 - **[whatsapp-status-translator](https://github.com/mehboobali98/whatsapp-status-translator)** &nbsp;`JavaScript`<br>
   One-click translate for WhatsApp Web Status captions, the one surface WhatsApp's own translate feature leaves out. A Manifest V3 worker over a DOM I don't control and can't rely on.
+- **[session-deck](https://github.com/mehboobali98/session-deck)** &nbsp;`Claude Code`<br>
+  A pane beside the chat for context fill, plan limits, plan progress and scheduled routines.
 
 ### What I've shipped at work
 
@@ -65,10 +71,16 @@ Closed source, so here is what they were and what they had to solve.
 > spots invalid serials, falls back to the MAC address, and lets each company keep its own list of
 > serials not to trust.
 
+**A server rack layout editor** &nbsp;·&nbsp; `Rails` `React` `React Flow`
+> Both halves are mine: the Rails API that saves a layout's racks and devices in one transaction,
+> and the React editor on top of it. Drop a device on a rack and it lands in the nearest free slot
+> tall enough to hold it, or the editor says there's no room. Shipped in 2026.
+
 Four titles in five years, and what stayed behind after each one: [mehboob.dev/#trajectory](https://mehboob.dev/#trajectory).
 
 ### Writing
 
+- [A demo that can only show a working feature](https://mehboob.dev/blog/a-demo-that-can-only-show-a-working-feature/): `/demo` films a finished feature in the app on my machine, and a failed check throws the take away.
 - [What changed when an agent started using my CLI](https://mehboob.dev/blog/designing-a-cli-for-agents/): rmine was built for two callers from the start: me at a terminal, and a coding agent.
 - [Three agents that don't trust each other](https://mehboob.dev/blog/three-agents-that-dont-trust-each-other/): an effort estimator built from three subagents. What mattered was what to withhold from each one.
 - [I used it internally for two years before publishing it](https://mehboob.dev/blog/two-years-before-i-published-it/): most of what makes something a library rather than a snippet lives in that gap.
